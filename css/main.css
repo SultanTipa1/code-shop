@@ -1,0 +1,38 @@
+.body {
+  font-family: Arial, sans-serif;
+  background-color: #3d7508;
+  margin: 0;
+  padding: 0;
+}
+.purchased {
+  text-decoration: line-through;
+  background-color: #940c0c;
+}
+
+.clearButton {
+  background-color: yellow;
+}
+
+.container {
+  background-color: #0b18c9c5;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 300px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.add-item-container {
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 8px;
+  margin-right: 5px;
+  border: 1px solid #c41010;
+  border-radius: 4px;
+}
